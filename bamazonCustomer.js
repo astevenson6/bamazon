@@ -26,3 +26,7 @@ function afterConnection() {
       connection.end();
     });
   }
+
+//   inquirer to prompt messages, prob reference GreatBay
+//   if else for "insufficient quantity!"
+//   in order to complete order would use UPDATE to change quantity after purchase
